@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1032744833814",
+    "firebase_url": "https://mopatient-30ab5.firebaseio.com",
+    "project_id": "mopatient-30ab5",
+    "storage_bucket": "mopatient-30ab5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032744833814:android:d2fc5dc06207e995",
+        "android_client_info": {
+          "package_name": "umuz.mopatient"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032744833814-6nksu79uv266bdlvkupo4ugkksihjr78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "umuz.mopatient",
+            "certificate_hash": "A8B8649AC7D5A2002FE9F72B049C7EA6B76E2140"
+          }
+        },
+        {
+          "client_id": "1032744833814-0a5th2bahke6o8p1mj64n9tte789inuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj1MkpgL85oAUsttAxDYmJSz3Y_uTE7ns"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032744833814-0a5th2bahke6o8p1mj64n9tte789inuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
